@@ -1,2 +1,4 @@
 # Roblox Tools
-just some projects for roblox that dont get you banned or mess with the game
+RFpsUNLOCKER.py - Removes roblox in game fps cap
+RVersionCHECKER.py - shows version in the version folder
+RVersionCLEANER.py - Deletes any unneeded files/folders in the Version folder of roblox
